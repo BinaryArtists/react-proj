@@ -19,6 +19,7 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "preserve",
+    "sourceMap": true,
     "experimentalDecorators": true
   },
   "include": [

@@ -2,8 +2,14 @@ import React, { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import { useExample } from '@/app/shared/example';
 import './example.module.scss';
+import { log } from '@/utils/decorators';
 
-export default function () {
+@log
+class Test {
+
+}
+
+function ExamplePage () {
   const [t] = useTranslation();
   const [state, incrementProperty1] = useExample();
 
@@ -35,3 +41,5 @@ export default function () {
     </div>
   );
 }
+
+export default ExamplePage;
