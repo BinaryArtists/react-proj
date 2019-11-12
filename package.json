@@ -58,6 +58,6 @@
     "tslint-react": "^4.0.0",
     "typescript": "3.5.3"
   },
-  "repository": "...",
+  "repository": "https://github.com/BinaryArtists/react-proj.git",
   "author": "fallenink"
 }
