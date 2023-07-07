@@ -50,7 +50,7 @@
     "postcss-scss": "^2.0.0",
     "react-scripts": "3.0.1",
     "start-server-and-test": "^1.9.1",
-    "stylelint": "^10.1.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-standard": "^18.3.0",
     "stylelint-processor-html": "^1.0.0",
     "stylelint-scss": "^3.9.3",
